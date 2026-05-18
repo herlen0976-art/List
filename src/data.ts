@@ -712,7 +712,7 @@ export const transportData: TransportEntry[] = [
     prefecture: "愛知県",
     area: "愛知県飛島村",
     destination: "カナロアシッピング（飛島工場）",
-    mapLink: "https://maps.google.com/?q=カナロアシッピング（飛島工場）",
+    mapLink: "https://www.google.com/maps/place/35%C2%B004'51.4%22N+136%C2%B048'51.0%22E/@35.0809389,136.8115804,848m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d35.0809389!4d136.8141553!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
     hours: "~17:00",
     remarks: ""
   },
